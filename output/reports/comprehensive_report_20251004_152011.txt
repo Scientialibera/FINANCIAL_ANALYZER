@@ -1,0 +1,48 @@
+================================================================================
+TSX ADVANCED ANALYSIS - COMPREHENSIVE REPORT
+================================================================================
+Generated: 2025-10-04 15:20:27
+Total Stocks Analyzed: 181
+
+MARKET STATISTICS
+--------------------------------------------------------------------------------
+Average Annual Return: 24.34%
+Median Annual Return: 19.12%
+Average Sharpe Ratio: 0.424
+Median Sharpe Ratio: 0.415
+Average Volatility: 47.65%
+Average Beta: 0.903
+Average Max Drawdown: -73.71%
+
+TOP 10 STOCKS BY SHARPE RATIO
+--------------------------------------------------------------------------------
+SOBO.TO       Sharpe:  1.186  Return:  42.17%  Vol: 31.75%
+CSU.TO        Sharpe:  1.121  Return:  33.01%  Vol: 25.43%
+DOL.TO        Sharpe:  1.043  Return:  28.40%  Vol: 22.90%
+DFY.TO        Sharpe:  1.039  Return:  28.83%  Vol: 23.42%
+SHOP.TO       Sharpe:  0.925  Return:  58.11%  Vol: 57.96%
+BAM.TO        Sharpe:  0.818  Return:  28.91%  Vol: 29.83%
+WSP.TO        Sharpe:  0.805  Return:  23.55%  Vol: 23.68%
+TPZ.TO        Sharpe:  0.754  Return:  22.72%  Vol: 24.15%
+NXE.TO        Sharpe:  0.750  Return:  51.17%  Vol: 62.23%
+TFPM.TO       Sharpe:  0.729  Return:  29.87%  Vol: 34.80%
+
+PORTFOLIO STRATEGIES COMPARISON
+--------------------------------------------------------------------------------
+Strategy                         Return      Vol   Sharpe
+--------------------------------------------------------------------------------
+Aggressive_Growth_10             53.04%   18.59%    2.611
+Balanced_Growth_15               58.34%   19.64%    2.741
+Diversified_20                   64.45%   20.60%    2.911
+High_Momentum                    58.34%   19.64%    2.741
+Conservative_Low_Vol             27.83%   12.27%    1.901
+Risk_Parity_20                   27.11%   13.52%    1.672
+Minimum_Volatility_20            18.85%   11.28%    1.272
+
+RECOMMENDED PORTFOLIO: Diversified_20
+
+FILES GENERATED
+--------------------------------------------------------------------------------
+Complete Analysis: complete_analysis_20251004_152011.csv
+All Portfolios: all_strategies_20251004_152011.csv
+Monte Carlo: monte_carlo_top5_20251004_152011.csv
